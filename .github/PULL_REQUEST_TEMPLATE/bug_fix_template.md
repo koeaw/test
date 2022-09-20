@@ -28,9 +28,9 @@ Resolves issue:
 Supersedes PR:
 - #13
 
-**Checklist**
+**Checklist (Replace the space in square brackets with a lowercase x for all that apply)**
 - [ ] My changes don't generate new warnings or errors
 - [ ] My changes follow the project's code formatting rules and style guidelines
-- [ ] I have commented my code with Docstrings and inline comments, particularly where it's complex, unusual or hard to read
+- [ ] I have commented my code with Docstrings and code comments, particularly where it's complex, unusual or hard to read
 - [ ] I have updated the project documentation to reflect my changes
 - [ ] I haved added new unit tests or updated existing ones to demonstrate my changes works
