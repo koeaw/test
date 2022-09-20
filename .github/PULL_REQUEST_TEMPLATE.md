@@ -1,10 +1,3 @@
----
-name: "Fix or feature"
-about: "Fix a bug, add an enhancement or contribute a new feature"
-labels: needs-review
-
----
-
 **Describe your changes**
 A clear and concise description of what your pull request achieves. Use bullet points
 to list individual changes where sensible, e.g. if your PR combines multiple changes
