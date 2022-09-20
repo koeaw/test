@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-**What's the focus of your question? (Replace the space in square brackets with a lowercase x)**
+**What's the focus of your question? (Replace the space in square brackets with a lowercase x for all that apply)**
 - [ ] App structure, code organisation – setup, config, deployment etc.
 - [ ] Specific code or functionality (usage, purpose)
 - [ ] Documentation – project docs, READMEs, code comments,...
