@@ -1,9 +1,7 @@
 ---
-name: Fix or feature
-about: Fix a bug, add an enhancement or contribute a new feature
-title: 
+name: "Fix or feature"
+about: "Fix a bug, add an enhancement or contribute a new feature"
 labels: needs-review
-assignees: ''
 
 ---
 
